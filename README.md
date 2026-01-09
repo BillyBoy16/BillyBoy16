@@ -43,7 +43,7 @@
 
 | **GitHub Statistics** | **Most Used Languages** |
 |:---:|:---:|
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=BillyBoy16&theme=dark&hide_border=true&show_icons=true" /> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyBoy16&theme=dark&hide_border=true&layout=compact" /> |
+| <img height="190" src="https://metrics.lecoq.io/BillyBoy16?template=classic&base=header,repositories,metadata&config.timezone=Europe%2FParis&hide_title=true" /> | <img height="190" src="https://metrics.lecoq.io/BillyBoy16?template=classic&base=&languages=1&languages.limit=6&hide_title=true" /> |
 
 <br>
 
