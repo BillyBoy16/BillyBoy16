@@ -7,8 +7,6 @@
 🧑🏻‍💻 Building distinct web and mobile experiences and solving complex problems.
 <br>
 👨🏻‍💼 Currently looking for an internship.
-<br>
-🚀 **Check out my portfolio:** [My Website](TON_LIEN_ICI)
 
 ---
 
