@@ -40,11 +40,6 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
-| **GitHub Statistics** | **Most Used Languages** |
-|:---:|:---:|
-| <img height="190" src="https://metrics.lecoq.io/BillyBoy16?template=classic&base=header,repositories,metadata&config.timezone=Europe%2FParis&hide_title=true" /> | <img height="190" src="https://metrics.lecoq.io/BillyBoy16?template=classic&base=&languages=1&languages.limit=6&hide_title=true" /> |
-
 <br>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=BillyBoy16&theme=dark&hide_border=true" alt="Streak Stats" />
