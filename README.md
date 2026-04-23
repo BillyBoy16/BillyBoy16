@@ -6,7 +6,7 @@
 <br>
 🧑🏻‍💻 Building distinct web and mobile experiences and solving complex problems.
 <br>
-👨🏻‍💼 Currently looking for an internship.
+👨🏻‍💼 Currently looking for an apprenticeship.
 
 ---
 
